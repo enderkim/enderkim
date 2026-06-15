@@ -1,4 +1,4 @@
-### Hi there 👋 This is Ender Kim. 
+### Hi there 👋 This is Peta.
 
 
 - 🔭 I’m currently working on Unity.
